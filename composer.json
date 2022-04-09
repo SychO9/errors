@@ -1,12 +1,12 @@
 {
-    "name": "axy/errors",
+    "name": "sycho/errors",
     "type": "library",
     "description": "Exceptions in PHP",
     "keywords": [
         "Exception",
         "Error"
     ],
-    "homepage": "https://github.com/axypro/errors",
+    "homepage": "https://github.com/sycho9/errors",
     "license": "MIT",
     "authors": [
         {
